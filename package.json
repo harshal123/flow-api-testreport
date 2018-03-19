@@ -1,0 +1,11 @@
+{
+  "name": "static_website",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start"     : "node app.js"
+  },
+  "dependencies": {
+    "built-extension-sdk": "1.0.2"
+  }
+}
